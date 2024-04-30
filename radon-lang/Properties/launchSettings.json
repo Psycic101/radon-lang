@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "radon-lang": {
+      "commandName": "Project",
+      "commandLineArgs": "\".\\Test Radon Code\\test-file.rn\""
+    }
+  }
+}
